@@ -1,3 +1,14 @@
+#Giramsan-News
+This is a daily news web-application using react js and news-api.It have different categories like genereal,entertainment,Technology,Sports,Science,Business and more.
+
+#Limitaion : This web-application can be worked only on localhost as we are using news-api, that is free for running web-app on localhost.
+
+#Feature:
+1. Live News
+2. Category News
+3. Infinite scrolling
+
+
 ![news1](https://user-images.githubusercontent.com/95236961/172864457-522e4396-a7be-4832-85a6-3f3f6562ac72.png)
 
 ![new2](https://user-images.githubusercontent.com/95236961/172864432-53c99de5-ea1f-4858-a44a-d804d7b5b54f.png)
