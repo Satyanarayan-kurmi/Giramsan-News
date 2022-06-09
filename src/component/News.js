@@ -98,7 +98,7 @@ export default class News extends Component {
         let imgurl="https://media.istockphoto.com/vectors/abstract-globe-background-vector-id1311148884?s=612x612"
         return (
             <>
-                <h2 className='mt-5 pt-3 text-center '>
+                <h2 className='mt-5 pt-3 text-center text-light'>
                 Giramsan-News Top {ss.charAt(0).toUpperCase() + ss.slice(1)} headlines
                 </h2>
                 <InfiniteScroll

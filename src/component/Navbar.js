@@ -6,7 +6,7 @@ export class Navbar extends Component {
 
   render() {
     return (
-        <nav style={{background:'rgb(59 67 94)'}} className="navbar fixed-top navbar-expand-lg navbar-dark   ">
+        <nav style={{background:'rgb(192 42 102)'}} className="navbar fixed-top navbar-expand-lg navbar-dark   ">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">Giramsan-News</Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
